@@ -252,7 +252,7 @@ class weiboMonitor():
 ![素材](http://i1.ciimg.com/602361/12f1bfeafeba4a7a.png)写了个一发现有新微博就发邮件提醒的功能 完整代码见Github地址 [https://github.com/naiquann/WBMonitor](https://github.com/naiquann/WBMonitor)  
 #### 0x03 测试  
 ![素材](http://i1.ciimg.com/602361/5b5dd2f6476c629e.png)运行代码  
-![Markdown](http://i2.tiimg.com/602361/6414331da5040752.png)
+![Markdown](http://i2.tiimg.com/602361/6414331da5040752.png)  
 填写完相关的登陆信息及要监控的用户的id后  
 ![Markdown](http://i2.tiimg.com/602361/4c933175b8562773.png)  
 ![素材](http://i1.ciimg.com/602361/6d42627539f48ec3.png)这里写了一个心跳包 每三秒访问一次看看有没有新微博发布  
